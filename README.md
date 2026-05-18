@@ -2,7 +2,7 @@
 
 EduReach is a full-stack web application designed to connect rural students with donors and volunteers. The platform helps provide educational resources such as books, stationery, and mentorship opportunities to underserved communities.
 
-**Features**
+**Features** : 
 Student registration and profile management
 Book and stationery donation requests
 Volunteer registration and coordination
@@ -61,5 +61,7 @@ EduReach aims to empower students in rural areas by improving access to educatio
 **Author**
 
 Thejashri N
+
 Computer Science and Engineering (AI & ML)
+
 PSG College of Technology
