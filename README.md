@@ -1,5 +1,5 @@
-**EduReach – School Donation and Volunteer Platform
-**
+**EduReach – School Donation and Volunteer Platform**
+
 EduReach is a full-stack web application designed to connect rural students with donors and volunteers. The platform helps provide educational resources such as books, stationery, and mentorship opportunities to underserved communities.
 
 **Features**
